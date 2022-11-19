@@ -1,0 +1,23 @@
+.container {
+  background-color: blue;
+  position: fixed;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.search-form {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
+.form-input {
+  padding: 5px;
+  border-radius: 5px;
+  width: 300px;
+}
+
+.btn-search {
+  border-radius: 5px;
+}
